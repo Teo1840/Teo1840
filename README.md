@@ -12,11 +12,11 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
 
 | 💻 **Lenguajes** | 🛠️ **Herramientas** |
 |-----------------|---------------------|
-| Python (principal) | Git & GitHub |
-| Assembly (nivel academico) | Jupyter |
-| SQL (nivel academico) | Flask |
-| Java (nivel academico) | VS Code |
-|  | Intellij IDEA |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" /> Python (principal) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> Git & GitHub |
+| Assembly (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/> Jupyter |
+| SQL (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/> Flask |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" /> Java (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> VS Code |
+|  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/> Intellij IDEA |
 
 </div>
 
@@ -28,7 +28,7 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
 Aplicación que realiza consultas a los servidores de FamilySearch, procesa datos genealógicos y analiza relaciones familiares. Permite generar resultados personalizados a partir de una lista preseleccionada de personas.
 *Inspirado en [famousrelatives](https://www.familysearch.org/es/discovery/famousrelatives), pero adaptado a un conjunto fijo de individuos.*
 
-### 🔹 **🐕[Dogbnb](https://github.com/AlexFein123/DogBnB_BackEnd-) (Python)**
+### 🔹 **🐕[Dogbnb](https://github.com/AlexFein123/DogBnB_BackEnd-) (Python / Django)**
 
 Plataforma centralizada de servicios de hospedaje canino en Uruguay.
 Proyecto desarrollado para TIC I (Universidad de Montevideo), orientado al diseño de un backend funcional y modular.
