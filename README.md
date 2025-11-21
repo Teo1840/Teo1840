@@ -10,20 +10,13 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
 
 ## 💻 Tecnologías y Herramientas
 
-### **Lenguajes:**
-
-* Python (principal)
-* Assembly (nivel academico)
-* SQL (nivel académico)
-* Java (nivel académico)
-
-### **Herramientas:**
-
-* Git & GitHub
-* Jupyter
-* Flask (básico)
-* VS Code
-* Intellij IDEA
+| 💻 **Lenguajes** | 🛠️ **Herramientas** |
+|-----------------|---------------------|
+| Python (principal) | Git & GitHub |
+| Assembly (nivel académico) | Jupyter |
+| SQL (nivel académico) | Flask (básico) |
+| Java (nivel académico) | VS Code |
+|  | Intellij IDEA |
 
 ---
 
@@ -39,7 +32,7 @@ Aplicación que realiza consultas a los servidores de FamilySearch, procesa dato
 Plataforma centralizada de servicios de hospedaje canino en Uruguay.
 Proyecto desarrollado para TIC I (Universidad de Montevideo), orientado al diseño de un backend funcional y modular.
 
-### 🔹 **📓[Obligatorio2025GM](https://github.com/Teo1840/Obligatorio2025GM)**
+### 🔹 **📓[Obligatorio2025GM](https://github.com/Teo1840/Obligatorio2025GM) (Java)**
 
 Proyecto de lectura y análisis de datos desde archivos CSV.
 Originalmente una entrega de Programación I, ahora convertido en un playground personal para mejorar técnicas de análisis, limpieza y exploración de datos.
@@ -48,7 +41,6 @@ Originalmente una entrega de Programación I, ahora convertido en un playground 
 
 ## 🧠 Qué estoy aprendiendo ahora
 
-* Ingeniería de Software
 * Diseño de APIs y aplicaciones web simples con Flask
 * Redes de Datos I
 * Analisis y Diseño de Algoritmos
