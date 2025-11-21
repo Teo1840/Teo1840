@@ -8,9 +8,15 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
 
 ---
 <div align="center">
+
 | 💻 **Lenguajes** | 🛠️ **Herramientas** |
 |-----------------|---------------------|
-| Python • Assembly • SQL • Java | Git & GitHub • Jupyter • Flask • VS Code • Intellij IDEA |
+| Python (principal) | Git & GitHub |
+| Assembly | Jupyter |
+| SQL | Flask |
+| Java | VS Code |
+|  | Intellij IDEA |
+
 </div>
 
 ---
