@@ -12,6 +12,7 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
 |-----------------|---------------------|
 | Python • Assembly • SQL • Java | Git & GitHub • Jupyter • Flask • VS Code • Intellij IDEA |
 </div>
+
 ---
 ## 📂 Proyectos Destacados
 
