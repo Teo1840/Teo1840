@@ -12,11 +12,7 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
 
 | 💻 **Lenguajes** | 🛠️ **Herramientas** |
 |-----------------|---------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> Python (principal) | <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg?color=white" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
-  <img alt="GitHub logo" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="20">
-</picture> Git & GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> Python (principal) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg?color=white" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" /><img alt="GitHub logo" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="20"></picture> Git & GitHub |
 | <img src="https://cdn-icons-png.flaticon.com/512/4249/4249674.png" width="20"/> Assembly (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20"/> Jupyter |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> SQL (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20"/> Flask |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" /> Java (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" /> VS Code |
