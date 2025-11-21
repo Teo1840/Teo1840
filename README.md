@@ -2,25 +2,20 @@
 
 ### Estudiante de Ingeniería Telemática | Python & Data Enthusiast | Networking & Telecom
 
-Soy estudiante de **Ingeniería Telemática en la Universidad de Montevideo** y me apasionan las áreas de **Python**, **datos**, **redes**, **telecomunicaciones** y **sistemas distribuidos**.
+Soy estudiante de **Ingeniería Telemática en la Universidad de Montevideo** y me apasionan las áreas de **Python**, **datos** y **telecomunicaciones**.
 
-Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo **inglés** y **portugués**.
+Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo fluido 🇧🇷 **inglés** y 🇧🇷 **portugués**.
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 💻 Tecnologías y Herramientas
 
 ### **Lenguajes:**
 
 * Python (principal)
-* ASSEMBLY
+* Assembly (nivel academico)
 * SQL (nivel académico)
 * Java (nivel académico)
-
-### **Áreas de interés:**
-
-* Data analysis / data engineering
-* Algoritmos y estructuras de datos
 
 ### **Herramientas:**
 
@@ -36,14 +31,19 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
 
 ### 🔹 **🧭[famousrelatives](https://github.com/Teo1840/famousrelatives) (Python / Django / Flask)**
 
-Scrpt [famousrelatives](https://www.familysearch.org/es/discovery/famousrelatives) but for a specific list of people selected in advance)
-### 🔹 **[Dogbnb](https://github.com/AlexFein123/DogBnB_BackEnd-) (Python)**
+Aplicación que realiza consultas a los servidores de FamilySearch, procesa datos genealógicos y analiza relaciones familiares. Permite generar resultados personalizados a partir de una lista preseleccionada de personas.
+*Inspirado en [famousrelatives](https://www.familysearch.org/es/discovery/famousrelatives), pero adaptado a un conjunto fijo de individuos.*
 
-poryecto TIC I de la universidad
+### 🔹 **🐕[Dogbnb](https://github.com/AlexFein123/DogBnB_BackEnd-) (Python)**
 
-### 🔹 **[Obligatorio2025GM](https://github.com/Teo1840/Obligatorio2025GM)**
+Plataforma centralizada de servicios de hospedaje canino en Uruguay.
+Proyecto desarrollado para TIC I (Universidad de Montevideo), orientado al diseño de un backend funcional y modular.
 
-Trabajo de lectura de csv y analisis de datos.
+### 🔹 **📓[Obligatorio2025GM](https://github.com/Teo1840/Obligatorio2025GM)**
+
+Proyecto de lectura y análisis de datos desde archivos CSV.
+Originalmente una entrega de Programación I, ahora convertido en un playground personal para mejorar técnicas de análisis, limpieza y exploración de datos.
+
 ---
 
 ## 🧠 Qué estoy aprendiendo ahora
@@ -58,8 +58,8 @@ Trabajo de lectura de csv y analisis de datos.
 ## 📫 Contacto
 
 * **Email:** *mateonunez1820@gmail.com*
-* **LinkedIn:** *[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
+* **LinkedIn:** [![Mateo Núñez on LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
 
 ---
 
-> *“Avoiding a problem you know is coming only takes away your chance to grow. Let things flow, endure the process, and in time you’ll learn how to overcome it.”*
+# *“Avoiding a problem you know is coming only takes away your chance to grow. Let things flow, endure the process, and in time you’ll learn how to overcome it.”*
