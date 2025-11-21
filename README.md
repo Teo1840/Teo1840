@@ -7,19 +7,12 @@ Soy estudiante de **Ingeniería Telemática en la Universidad de Montevideo** y 
 Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo fluido 🇬🇧 **inglés** y 🇧🇷 **portugués**.
 
 ---
-
-## 💻 Tecnologías y Herramientas
-
+<div align="center">
 | 💻 **Lenguajes** | 🛠️ **Herramientas** |
 |-----------------|---------------------|
-| Python (principal) | Git & GitHub |
-| Assembly (nivel académico) | Jupyter |
-| SQL (nivel académico) | Flask (básico) |
-| Java (nivel académico) | VS Code |
-|  | Intellij IDEA |
-
+| Python • Assembly • SQL • Java | Git & GitHub • Jupyter • Flask • VS Code • Intellij IDEA |
+</div>
 ---
-
 ## 📂 Proyectos Destacados
 
 ### 🔹 **🧭[famousrelatives](https://github.com/Teo1840/famousrelatives) (Python / Django / Flask)**
@@ -38,7 +31,6 @@ Proyecto de lectura y análisis de datos desde archivos CSV.
 Originalmente una entrega de Programación I, ahora convertido en un playground personal para mejorar técnicas de análisis, limpieza y exploración de datos.
 
 ---
-
 ## 🧠 Qué estoy aprendiendo ahora
 
 * Diseño de APIs y aplicaciones web simples con Flask
@@ -46,12 +38,10 @@ Originalmente una entrega de Programación I, ahora convertido en un playground 
 * Analisis y Diseño de Algoritmos
 
 ---
-
 ## 📫 Contacto
 
 * **Email:** *mateonunez1820@gmail.com*
 * **LinkedIn:** [Mateo Núñez](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
 
 ---
-
 ## *“Avoiding a problem you know is coming only takes away your chance to grow. Let things flow, endure the process, and in time you’ll learn how to overcome it.”*
