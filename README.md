@@ -2,7 +2,6 @@
 
 ## Estudiante de Ingeniería Telemática | Python & Data Enthusiast | Networking & Telecom  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
 
----
 Soy estudiante de **Ingeniería Telemática en la Universidad de Montevideo** y me apasionan las áreas de **Python**, **datos** y **telecomunicaciones**.
 
 Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo fluido **inglés** y **portugués**.
