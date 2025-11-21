@@ -2,7 +2,7 @@
 
 ## Estudiante de Ingeniería Telemática | Python & Data Enthusiast | Networking & Telecom  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
 
-
+---
 Soy estudiante de **Ingeniería Telemática en la Universidad de Montevideo** y me apasionan las áreas de **Python**, **datos** y **telecomunicaciones**.
 
 Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo fluido **inglés** y **portugués**.
@@ -18,11 +18,7 @@ Me gusta crear proyectos que combinen ingeniería, análisis y software. Tambié
   <img alt="GitHub" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="15" />
 </picture>
 Git & GitHub |
-| <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assembly-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assembly-light.svg" />
-    <img src="assembly-light.svg" width="15" alt="ASM icon">
-  </picture> Assembly (nivel académico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="15"/> Jupyter |
+| <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microchip.svg" width="15" alt="PIC / Microchip" /> Assembly (nivel académico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="15"/> Jupyter |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="15"/> SQL (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="15"/> Flask |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15" /> Java (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="15" /> VS Code |
 |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="15"/> Intellij IDEA |
