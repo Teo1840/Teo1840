@@ -1,10 +1,10 @@
 # 👋 Hola, soy Mateo Núñez
 
-### Estudiante de Ingeniería Telemática | Python & Data Enthusiast | Networking & Telecom
+### Estudiante de Ingeniería Telemática | Python & Data Enthusiast | Networking & Telecom  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
 
 Soy estudiante de **Ingeniería Telemática en la Universidad de Montevideo** y me apasionan las áreas de **Python**, **datos** y **telecomunicaciones**.
 
-Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo fluido 🇧🇷 **inglés** y 🇧🇷 **portugués**.
+Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo fluido 🇬🇧 **inglés** y 🇧🇷 **portugués**.
 
 ---
 
@@ -58,8 +58,8 @@ Originalmente una entrega de Programación I, ahora convertido en un playground 
 ## 📫 Contacto
 
 * **Email:** *mateonunez1820@gmail.com*
-* **LinkedIn:** [![Mateo Núñez on LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
+* **LinkedIn:** [Mateo Núñez](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
 
 ---
 
-# *“Avoiding a problem you know is coming only takes away your chance to grow. Let things flow, endure the process, and in time you’ll learn how to overcome it.”*
+## *“Avoiding a problem you know is coming only takes away your chance to grow. Let things flow, endure the process, and in time you’ll learn how to overcome it.”*
