@@ -22,6 +22,12 @@ I enjoy learning by building real-world projects and documenting my progress. I'
 ---
 
 ## 🛠️ Technologies & Tools
+
+### *Domains*
+- Networking (routing, switching, protocols)
+- IT Support / Troubleshooting
+- Backend fundamentals
+
 ### *Languages & Frameworks*
 - Python (primary language)
 - Java (academic)
@@ -35,13 +41,9 @@ I enjoy learning by building real-world projects and documenting my progress. I'
 - IntelliJ IDEA
 - Jupyter Notebook
 - MySQL / SQL Workbench
-- Packet Tracer (network simulation labs) 
-
-### *Networking & Infrastructure*
-- IP addressing & subnetting
-- Routing & switching fundamentals
-- Protocols: HTTP, TCP/UDP, DNS, DHCP
-- Troubleshooting tools: ping, traceroute, nslookup, Wireshark (basic)
+- Linux (basic — used for Docker + MySQL integration)
+- Wireshark (academic use)
+- Packet Tracer (network simulation labs)
 
 ---
 
@@ -59,15 +61,15 @@ I enjoy learning by building real-world projects and documenting my progress. I'
 ### 🔹 Famous Relatives App  
 Application that connects to FamilySearch APIs to retrieve and process genealogical data.  
 *Tech:* Python, REST APIs, JSON parsing  
-*Highlights:* Improved API handling, error management, and data processing logic.  
+*What I learned:* database setup, backend integration, and basic web design.
 🔗 [Repository Link](https://github.com/Teo1840/famousrelatives)
 
 ---
 
 ### 🔹 Dogbnb (Academic Project)  
 University project: a web-based platform for pet hosting, following MVC architecture.  
-*Tech:* Java, SQL, JSP/Servlets  
-*Highlights:* Implemented user authentication, database interaction, and MVC patterns.  
+*Tech:* Java, SQL, JSP/Servlets
+*What I learned:* Structuring a small backend in Java. Handling user input, validations, and simple business logic.
 🔗 [Repository Link](https://github.com/Teo1840/Dogbnb)
 
 ---
@@ -75,7 +77,7 @@ University project: a web-based platform for pet hosting, following MVC architec
 ### 🔹 CSV Data Analysis (Course Project 2025)  
 Reads and processes CSV files using Java, performing calculations and structured output.  
 *Tech:* Java, CSV parsing, Data Structures  
-*Highlights:* Learned efficient file handling, algorithmic thinking, and modular code design.  
+*What I learned:* algorithm optimization, data processing, and clean code practices.
 🔗 [Repository Link](https://github.com/Teo1840/Obligatorio2025GM)
 
 ---
