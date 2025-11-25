@@ -17,6 +17,8 @@ Welcome to my GitHub! I’m currently studying Telematics Engineering and develo
   - Data analysis  
   - Cloud fundamentals  
 
+I enjoy learning by building real-world projects and documenting my progress. I'm currently open to internship opportunities in IT, networking, and software development.
+
 ---
 
 ## 🛠️ Technologies & Tools
