@@ -1,54 +1,76 @@
-# 👋 Hola, soy Mateo Núñez
+# Hi, I'm Mateo 👋  
+Student of Telematics Engineering at Universidad de Montevideo | Interested in Networks, IT Infrastructure, Data, and Software Development
 
-## Estudiante de Ingeniería Telemática | Python & Data Enthusiast | Networking & Telecom  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
-
-Soy estudiante de **Ingeniería Telemática en la Universidad de Montevideo** y me apasionan las áreas de **Python**, **datos** y **telecomunicaciones**.
-
-Me gusta crear proyectos que combinen ingeniería, análisis y software. También hablo fluido **inglés** y **portugués**.
+Welcome to my GitHub! I’m currently studying Telematics Engineering and developing skills in networking, programming, databases, and problem-solving. I enjoy building small projects to learn new concepts and applying what I learn in real situations.
 
 ---
-<div align="center">
 
-| 💻 **Lenguajes** | 🛠️ **Herramientas** |
-|-----------------|---------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15" /> Python (principal) | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" /> <img alt="GitHub" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="15" /> </picture> Git & GitHub |
-| <img src="https://cdn-icons-png.flaticon.com/512/4249/4249674.png" width="15"/> Assembly (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="15"/> Jupyter |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="15"/> SQL (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="15"/> Flask |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15" /> Java (nivel academico) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="15" /> VS Code |
-|  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="15"/> Intellij IDEA |
-
-</div>
-
----
-## 📂 Proyectos Destacados
-
-### 🔹 **🧭[famousrelatives](https://github.com/Teo1840/famousrelatives) (Python / Django / Flask)**
-
-Aplicación que realiza consultas a los servidores de FamilySearch, procesa datos genealógicos y analiza relaciones familiares. Permite generar resultados personalizados a partir de una lista preseleccionada de personas.
-*Inspirado en [famousrelatives](https://www.familysearch.org/es/discovery/famousrelatives), pero adaptado a un conjunto fijo de individuos.*
-
-### 🔹 **🐕[Dogbnb](https://github.com/AlexFein123/DogBnB_BackEnd-) (Python / Django)**
-
-Plataforma centralizada de servicios de hospedaje canino en Uruguay.
-Proyecto desarrollado para TIC I (Universidad de Montevideo), orientado al diseño de un backend funcional y modular.
-
-### 🔹 **📓[Obligatorio2025GM](https://github.com/Teo1840/Obligatorio2025GM) (Java)**
-
-Proyecto de lectura y análisis de datos desde archivos CSV.
-Originalmente una entrega de Programación I, ahora convertido en un playground personal para mejorar técnicas de análisis, limpieza y exploración de datos.
+## 🌐 About Me
+- 🎓 Telematics Engineering student (Networks + Telecommunications + IT Systems)  
+- 💬 Languages: Spanish (native), English (C2), Portuguese (C2)  
+- 📍 Uruguay (EU citizen – Italian passport)  
+- 🤝 Experience working in *multicultural teams* (USA, Brazil, Argentina)  
+- 🚀 Interested in:
+  - Computer networks & telecommunications  
+  - IT support & troubleshooting  
+  - Software development (Python, Java)  
+  - Data analysis  
+  - Cloud fundamentals  
 
 ---
-## 🧠 Qué estoy aprendiendo ahora
 
-* Diseño de APIs y aplicaciones web simples con Flask
-* Redes de Datos I
-* Analisis y Diseño de Algoritmos
+## 🛠️ Technologies & Tools
+### *Languages & Frameworks*
+- Python  
+- Java  
+- Assembly  
+- SQL  
+- Flask (learning)  
+
+### *Tools & Environments*
+- Git & GitHub  
+- Visual Studio Code  
+- IntelliJ  
+- Jupyter Notebook  
+- SQLite  
+- Packet Tracer (Networking labs)  
 
 ---
-## 📫 Contacto
 
-* **Email:** *mateonunez1820@gmail.com*
-* **LinkedIn:** [Mateo Núñez](https://www.linkedin.com/in/mateo-núñez-07a27334b/)
+## 📚 What I'm Learning Now
+- Data Networks I (routing, switching, protocols)  
+- APIs and backend development with Flask  
+- Algorithms & Data Structures  
+- Database management and queries  
+- Best practices in Git and software documentation  
 
 ---
-## *“Avoiding a problem you know is coming only takes away your chance to grow. Let things flow, endure the process, and in time you’ll learn how to overcome it.”*
+
+## 📂 Featured Projects
+
+### 🔹 *Famous Relatives App*
+Small application that queries FamilySearch servers and processes genealogical data.  
+*Tech:* Python, APIs, data parsing  
+[Repository Link](https://github.com/Teo1840/famousrelatives)
+
+---
+
+### 🔹 *Dogbnb (Academic Project)*
+A web-based pet hosting platform created for a university project.  
+*Tech:* Java, SQL, MVC concepts  
+[Repository Link](https://github.com/Teo1840/Dogbnb)
+
+---
+
+### 🔹 *CSV Data Analysis (Obligatorio 2025)*
+Reads CSV files and performs data processing using Java.  
+*Tech:* Java, CSV parsing, data structures  
+[Repository Link](https://github.com/Teo1840/Obligatorio2025GM)
+
+---
+
+## 📫 Contact
+- *Email:* mateonunez004@gmail.com  
+- *LinkedIn:* https://www.linkedin.com/in/mateo-nuñez
+
+---
