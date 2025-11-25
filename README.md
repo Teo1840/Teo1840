@@ -21,19 +21,25 @@ Welcome to my GitHub! I’m currently studying Telematics Engineering and develo
 
 ## 🛠️ Technologies & Tools
 ### *Languages & Frameworks*
-- Python  
-- Java  
-- Assembly  
-- SQL  
-- Flask (learning)  
+- Python (primary language)
+- Java (academic)
+- Assembly (academic)
+- SQL (queries & relational databases)
+- Flask (introductory backend development)
 
 ### *Tools & Environments*
-- Git & GitHub  
-- Visual Studio Code  
-- IntelliJ  
-- Jupyter Notebook  
-- MySQL  
-- Packet Tracer (Networking labs)  
+- Git & GitHub (version control, branching, documentation)
+- Visual Studio Code
+- IntelliJ IDEA
+- Jupyter Notebook
+- MySQL / SQL Workbench
+- Packet Tracer (network simulation labs) 
+
+### *Networking & Infrastructure*
+- IP addressing & subnetting
+- Routing & switching fundamentals
+- Protocols: HTTP, TCP/UDP, DNS, DHCP
+- Troubleshooting tools: ping, traceroute, nslookup, Wireshark (basic)
 
 ---
 
