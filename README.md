@@ -54,24 +54,27 @@ Welcome to my GitHub! I’m currently studying Telematics Engineering and develo
 
 ## 📂 Featured Projects
 
-### 🔹 *Famous Relatives App*
-Small application that queries FamilySearch servers and processes genealogical data.  
-*Tech:* Python, APIs, data parsing  
-[Repository Link](https://github.com/Teo1840/famousrelatives)
+### 🔹 Famous Relatives App  
+Application that connects to FamilySearch APIs to retrieve and process genealogical data.  
+*Tech:* Python, REST APIs, JSON parsing  
+*Highlights:* Improved API handling, error management, and data processing logic.  
+🔗 [Repository Link](https://github.com/Teo1840/famousrelatives)
 
 ---
 
-### 🔹 *Dogbnb (Academic Project)*
-A web-based pet hosting platform created for a university project.  
-*Tech:* Java, SQL, MVC concepts  
-[Repository Link](https://github.com/Teo1840/Dogbnb)
+### 🔹 Dogbnb (Academic Project)  
+University project: a web-based platform for pet hosting, following MVC architecture.  
+*Tech:* Java, SQL, JSP/Servlets  
+*Highlights:* Implemented user authentication, database interaction, and MVC patterns.  
+🔗 [Repository Link](https://github.com/Teo1840/Dogbnb)
 
 ---
 
-### 🔹 *CSV Data Analysis (Obligatorio 2025)*
-Reads CSV files and performs data processing using Java.  
-*Tech:* Java, CSV parsing, data structures  
-[Repository Link](https://github.com/Teo1840/Obligatorio2025GM)
+### 🔹 CSV Data Analysis (Course Project 2025)  
+Reads and processes CSV files using Java, performing calculations and structured output.  
+*Tech:* Java, CSV parsing, Data Structures  
+*Highlights:* Learned efficient file handling, algorithmic thinking, and modular code design.  
+🔗 [Repository Link](https://github.com/Teo1840/Obligatorio2025GM)
 
 ---
 
