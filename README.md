@@ -32,7 +32,7 @@ Welcome to my GitHub! I’m currently studying Telematics Engineering and develo
 - Visual Studio Code  
 - IntelliJ  
 - Jupyter Notebook  
-- SQLite  
+- MySQL  
 - Packet Tracer (Networking labs)  
 
 ---
