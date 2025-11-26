@@ -84,6 +84,6 @@ Reads and processes CSV files using Java, performing calculations and structured
 
 ## 📫 Contact
 - *Email:* mateonunez004@gmail.com  
-- *LinkedIn:* https://www.linkedin.com/in/mateo-nuñez
+- *LinkedIn:* https://www.linkedin.com/in/mateo-f-nunez
 
 ---
