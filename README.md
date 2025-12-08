@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m currently studying Telematics Engineering and develo
 ---
 
 ## 🌐 About Me
-- 🎓 Telematics Engineering student (Networks + Telecommunications + IT Systems)  
+- 🎓 Computer Networks & Telecommunications Engineering student (Telematics)  
 - 💬 Languages: Spanish (native), English (C2), Portuguese (C2)  
 - 📍 Uruguay (EU citizen – Italian passport)  
 - 🤝 Experience working in *multicultural teams* (USA, Brazil, Argentina)  
