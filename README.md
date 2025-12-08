@@ -1,5 +1,5 @@
 # Hi, I'm Mateo 👋  
-Student of Telematics Engineering at Universidad de Montevideo | Interested in Networks, IT Infrastructure, Data, and Software Development
+Student of Computer Networks & Telecommunications Engineering (Telematics) at Universidad de Montevideo | Interested in Networks, IT Infrastructure, Data, and Software Development
 
 Welcome to my GitHub! I’m currently studying Telematics Engineering and developing skills in networking, programming, databases, and problem-solving. I enjoy building small projects to learn new concepts and applying what I learn in real situations.
 
