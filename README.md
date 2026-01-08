@@ -70,7 +70,7 @@ Application that connects to FamilySearch APIs to retrieve and process genealogi
 University project: a web-based platform for pet hosting, following MVC architecture.  
 *Tech:* Java, SQL, JSP/Servlets
 *What I learned:* Structuring a small backend in Java. Handling user input, validations, and simple business logic.
-🔗 [Repository Link](https://github.com/Teo1840/Dogbnb)
+🔗 [Repository Link](https://github.com/AlexFein123/Proyecto-TIC-Dogbnb)
 
 ---
 
