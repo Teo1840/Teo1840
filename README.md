@@ -1,16 +1,16 @@
-# Hi, I'm Mateo <img src="assets/icons/hand.svg" width="30" align="center" />
+# Hi, I'm Mateo <img src="https://api.iconify.design/lucide/hand.svg?color=%2358a6ff" width="30" align="center" />
 Student of Computer Networks & Telecommunications Engineering (Telematics) at Universidad de Montevideo | Interested in Networks, IT Infrastructure, Data, and Software Development
 
 Welcome to my GitHub! I'm currently studying Telematics Engineering and developing skills in networking, programming, databases, and problem-solving. I learn best by building projects that solve real problems, and by documenting them properly.
 
 ---
 
-## <img src="assets/icons/user.svg" width="22" align="center" /> About Me
-- <img src="assets/icons/graduation-cap.svg" width="16" align="center" /> Computer Networks & Telecommunications Engineering student (Telematics)
-- <img src="assets/icons/languages.svg" width="16" align="center" /> Languages: Spanish (native), English (C2), Portuguese (C2)
-- <img src="assets/icons/map-pin.svg" width="16" align="center" /> Based in Uruguay · Italian citizen (EU work rights)
-- <img src="assets/icons/users.svg" width="16" align="center" /> Experience working in *multicultural teams* (USA, Brazil, Argentina)
-- <img src="assets/icons/rocket.svg" width="16" align="center" /> Interested in:
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="22" align="center" /> About Me
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2358a6ff" width="16" align="center" /> Computer Networks & Telecommunications Engineering student (Telematics)
+- <img src="https://api.iconify.design/lucide/languages.svg?color=%2358a6ff" width="16" align="center" /> Languages: Spanish (native), English (C2), Portuguese (C2)
+- <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2358a6ff" width="16" align="center" /> Based in Uruguay · Italian citizen (EU work rights)
+- <img src="https://api.iconify.design/lucide/users.svg?color=%2358a6ff" width="16" align="center" /> Experience working in *multicultural teams* (USA, Brazil, Argentina)
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="16" align="center" /> Interested in:
   - Computer networks & telecommunications
   - IT support & troubleshooting
   - Software development (Python, Java, JavaScript)
@@ -21,7 +21,7 @@ I'm currently open to **internship opportunities in IT, networking, and software
 
 ---
 
-## <img src="assets/icons/wrench.svg" width="22" align="center" /> Technologies & Tools
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff" width="22" align="center" /> Technologies & Tools
 
 ### Domains
 - Networking (routing, switching, protocols)
@@ -65,7 +65,7 @@ I'm currently open to **internship opportunities in IT, networking, and software
 
 ---
 
-## <img src="assets/icons/book-open.svg" width="22" align="center" /> What I'm Learning Now
+## <img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff" width="22" align="center" /> What I'm Learning Now
 - Data Networks I (routing, switching, protocols)
 - APIs and backend development
 - Algorithms & Data Structures
@@ -75,38 +75,38 @@ I'm currently open to **internship opportunities in IT, networking, and software
 
 ---
 
-## <img src="assets/icons/folder-git-2.svg" width="22" align="center" /> Featured Projects
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2358a6ff" width="22" align="center" /> Featured Projects
 
-### <img src="assets/icons/network.svg" width="20" align="center" /> FamousRelatives
+### <img src="https://api.iconify.design/lucide/network.svg?color=%2358a6ff" width="20" align="center" /> FamousRelatives
 A browser extension that uses your FamilySearch tree to find how you're related to a curated list of famous people (mostly Uruguayan and regional figures), and shows each relationship path as a card and a graph.
 
 *Tech:* JavaScript (Manifest V3), IndexedDB, Supabase (Postgres + RLS), vis-network, Python, GitHub Actions
 *What I learned:* Working with an external API (rate limits, retries, caching), migrating a local Flask + SQLite app into a serverless browser extension, securing public data with Row Level Security, and setting up CI (ESLint, pytest, flake8, gitleaks). Built with AI-assisted development (Claude Code), with me reviewing design, security and commits.
 
-<img src="assets/icons/link.svg" width="14" align="center" /> [Repository](https://github.com/Teo1840/famousrelatives)
+<img src="https://api.iconify.design/lucide/link.svg?color=%2358a6ff" width="14" align="center" /> [Repository](https://github.com/Teo1840/famousrelatives)
 
 ---
 
-### <img src="assets/icons/clapperboard.svg" width="20" align="center" /> UMovie: Movie Data Query System (Course Project 2025)
+### <img src="https://api.iconify.design/lucide/clapperboard.svg?color=%2358a6ff" width="20" align="center" /> UMovie: Movie Data Query System (Course Project 2025)
 Loads movie metadata, credits and ~1M user ratings from CSV files and answers 6 queries, such as the top-rated movies by language, the highest-grossing collections and the best-rated directors.
 
 *Tech:* Java, Gradle, OpenCSV, Gson
 *What I learned:* Implementing data structures from scratch without `java.util` (linked list, hash tables with chaining, rehashing and linear/quadratic probing, binary search tree, binary heap), choosing the right structure for each query, and keeping performance reasonable on large datasets.
 
-<img src="assets/icons/link.svg" width="14" align="center" /> [Repository](https://github.com/Teo1840/Obligatorio2025GM)
+<img src="https://api.iconify.design/lucide/link.svg?color=%2358a6ff" width="14" align="center" /> [Repository](https://github.com/Teo1840/Obligatorio2025GM)
 
 ---
 
-### <img src="assets/icons/dog.svg" width="20" align="center" /> Dogbnb (Team Project)
+### <img src="https://api.iconify.design/lucide/dog.svg?color=%2358a6ff" width="20" align="center" /> Dogbnb (Team Project)
 University project: a web-based platform for pet hosting, following MVC architecture.
 
 *Tech:* Java, SQL, JSP/Servlets
 *What I learned:* Structuring a small backend in Java, handling user input, validations and business logic, and collaborating in a shared repository.
 
-<img src="assets/icons/link.svg" width="14" align="center" /> [Repository](https://github.com/AlexFein123/Proyecto-TIC-Dogbnb)
+<img src="https://api.iconify.design/lucide/link.svg?color=%2358a6ff" width="14" align="center" /> [Repository](https://github.com/AlexFein123/Proyecto-TIC-Dogbnb)
 
 ---
 
-## <img src="assets/icons/mail.svg" width="22" align="center" /> Contact
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%2358a6ff" width="22" align="center" /> Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo_F._Nunez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-f-nunez)
-[![Email](https://img.shields.io/badge/Email-mateonunez004%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mateonunez004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mateonunez1820%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mateonunez1820@gmail.com)
